@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GTA 6 Al Dia//Clips//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🎬 Subidas GTA 6 Al Día
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:gta6aldia-plan-20261121@clips
+DTSTAMP:20261121T103446Z
+DTSTART:20261121T110000Z
+DTEND:20261121T112000Z
+SUMMARY:🎬 Programa 6 clips de GTA 6 (app GTA 6 Al Día)
+DESCRIPTION:Abre la app y programa cada clip en TikTok y YouTube a su hora:\n#1 → programar para sáb 21/11 16:00 (10:00 Nueva York)\n#2 → programar para sáb 21/11 18:00 (12:00 Nueva York)\n#3 → programar para sáb 21/11 21:00 (15:00 Nueva York)\n#4 → programar para sáb 21/11 23:00 (17:00 Nueva York)\n#9 → programar para dom 22/11 00:30 (18:30 Nueva York)\n#10 → programar para dom 22/11 02:30 (20:30 Nueva York)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Toca programar 6 clips
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gta6aldia-plan-20261122@clips
+DTSTAMP:20261121T103446Z
+DTSTART:20261122T110000Z
+DTEND:20261122T112000Z
+SUMMARY:🎬 Programa 5 clips de GTA 6 (app GTA 6 Al Día)
+DESCRIPTION:Abre la app y programa cada clip en TikTok y YouTube a su hora:\n#5 → programar para dom 22/11 16:00 (10:00 Nueva York)\n#6 → programar para dom 22/11 18:00 (12:00 Nueva York)\n#7 → programar para dom 22/11 21:00 (15:00 Nueva York)\n#8 → programar para dom 22/11 23:00 (17:00 Nueva York)\n#15 → programar para lun 23/11 00:30 (18:30 Nueva York)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Toca programar 5 clips
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:gta6aldia-plan-20261123@clips
+DTSTAMP:20261121T103446Z
+DTSTART:20261123T110000Z
+DTEND:20261123T112000Z
+SUMMARY:🎬 Programa 4 clips de GTA 6 (app GTA 6 Al Día)
+DESCRIPTION:Abre la app y programa cada clip en TikTok y YouTube a su hora:\n#11 → programar para lun 23/11 16:00 (10:00 Nueva York)\n#12 → programar para lun 23/11 18:00 (12:00 Nueva York)\n#13 → programar para lun 23/11 21:00 (15:00 Nueva York)\n#14 → programar para lun 23/11 23:00 (17:00 Nueva York)
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Toca programar 4 clips
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
